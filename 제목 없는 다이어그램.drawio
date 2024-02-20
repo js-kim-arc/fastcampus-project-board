@@ -1,9 +1,132 @@
-<mxfile host="app.diagrams.net" modified="2024-02-13T11:48:06.942Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="23.1.1" etag="ssRSIsRCsGc78VYx8aab" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-20T14:02:49.591Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="bpfowPiJGWl30MPguH-a" version="23.1.1" type="github">
   <diagram name="페이지-1" id="Rm78LFPbsI7YakSiXysA">
-    <mxGraphModel>
+    <mxGraphModel dx="1877" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="oilPNRadQ7-BBjWi3Jpy-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-750" y="260" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oilPNRadQ7-BBjWi3Jpy-3" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="140" width="630" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="oilPNRadQ7-BBjWi3Jpy-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" edge="1" parent="1" source="oilPNRadQ7-BBjWi3Jpy-5" target="oilPNRadQ7-BBjWi3Jpy-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oilPNRadQ7-BBjWi3Jpy-5" value="회원가입" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oilPNRadQ7-BBjWi3Jpy-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-660" y="406" as="targetPoint" />
+            <mxPoint x="-510" y="486" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oilPNRadQ7-BBjWi3Jpy-6" value="게시판 보기" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oilPNRadQ7-BBjWi3Jpy-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-690" y="409" as="targetPoint" />
+            <mxPoint x="-510" y="699" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oilPNRadQ7-BBjWi3Jpy-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oilPNRadQ7-BBjWi3Jpy-7" target="oilPNRadQ7-BBjWi3Jpy-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-450" y="650" />
+              <mxPoint x="-370" y="650" />
+              <mxPoint x="-370" y="860" />
+              <mxPoint x="120" y="860" />
+              <mxPoint x="120" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oilPNRadQ7-BBjWi3Jpy-7" value="게시글 보기" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oilPNRadQ7-BBjWi3Jpy-10" value="인증" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oilPNRadQ7-BBjWi3Jpy-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="oilPNRadQ7-BBjWi3Jpy-11" target="oilPNRadQ7-BBjWi3Jpy-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oilPNRadQ7-BBjWi3Jpy-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="oilPNRadQ7-BBjWi3Jpy-11" target="oilPNRadQ7-BBjWi3Jpy-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oilPNRadQ7-BBjWi3Jpy-11" value="회원 로그인" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-365" y="160" width="105" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oilPNRadQ7-BBjWi3Jpy-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=classic;endFill=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" edge="1" parent="1" source="oilPNRadQ7-BBjWi3Jpy-12" target="oilPNRadQ7-BBjWi3Jpy-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oilPNRadQ7-BBjWi3Jpy-12" value="로그인 실패" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oilPNRadQ7-BBjWi3Jpy-13" value="정렬" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oilPNRadQ7-BBjWi3Jpy-14" value="게시판 검색&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oilPNRadQ7-BBjWi3Jpy-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oilPNRadQ7-BBjWi3Jpy-15" target="oilPNRadQ7-BBjWi3Jpy-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oilPNRadQ7-BBjWi3Jpy-15" value="게시글 쓰기,수정,삭제" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oilPNRadQ7-BBjWi3Jpy-16" value="댓글 보기,삭제" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oilPNRadQ7-BBjWi3Jpy-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=classic;endFill=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" edge="1" parent="1" source="oilPNRadQ7-BBjWi3Jpy-12" target="oilPNRadQ7-BBjWi3Jpy-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-50" y="280" as="sourcePoint" />
+            <mxPoint x="-312" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-312" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oilPNRadQ7-BBjWi3Jpy-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;entryX=0.183;entryY=1.057;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" target="oilPNRadQ7-BBjWi3Jpy-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-440" y="450" as="sourcePoint" />
+            <mxPoint x="-327" y="189.5" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oilPNRadQ7-BBjWi3Jpy-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-390" y="479.5" as="sourcePoint" />
+            <mxPoint x="-210" y="479.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oilPNRadQ7-BBjWi3Jpy-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="oilPNRadQ7-BBjWi3Jpy-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-400" y="499" as="sourcePoint" />
+            <mxPoint x="-220" y="499" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oilPNRadQ7-BBjWi3Jpy-33" value="DB" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="50" y="401" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="oilPNRadQ7-BBjWi3Jpy-34" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="oilPNRadQ7-BBjWi3Jpy-33">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oilPNRadQ7-BBjWi3Jpy-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.937;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="oilPNRadQ7-BBjWi3Jpy-10" target="oilPNRadQ7-BBjWi3Jpy-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="149" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oilPNRadQ7-BBjWi3Jpy-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.398;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oilPNRadQ7-BBjWi3Jpy-6" target="oilPNRadQ7-BBjWi3Jpy-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oilPNRadQ7-BBjWi3Jpy-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.708;entryY=1.031;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oilPNRadQ7-BBjWi3Jpy-16" target="oilPNRadQ7-BBjWi3Jpy-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

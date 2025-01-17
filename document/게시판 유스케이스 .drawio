@@ -1,23 +1,39 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="페이지-1" id="B1Olj9NftW98Ymhla4uz">
+<<<<<<< HEAD
     <mxGraphModel dx="1518" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+=======
+    <mxGraphModel dx="1843" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+>>>>>>> origin/feature/#5-usecase
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="eHUSrNBATWkMHYGOMOzu-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="210" width="50" height="130" as="geometry" />
         </mxCell>
+<<<<<<< HEAD
         <mxCell id="eHUSrNBATWkMHYGOMOzu-2" value="사용자 서비스&amp;nbsp;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=150;height=40;" parent="1" vertex="1">
           <mxGeometry x="160" y="40" width="800" height="740" as="geometry" />
         </mxCell>
         <mxCell id="eHUSrNBATWkMHYGOMOzu-3" value="회원가입" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="210" y="160" width="146" height="90" as="geometry" />
+=======
+        <mxCell id="eHUSrNBATWkMHYGOMOzu-2" value="게시판 서비스 팀" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=150;height=40;" parent="1" vertex="1">
+          <mxGeometry x="160" y="40" width="800" height="740" as="geometry" />
+        </mxCell>
+        <mxCell id="eHUSrNBATWkMHYGOMOzu-3" value="회원가입" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="200" y="130" width="146" height="90" as="geometry" />
+>>>>>>> origin/feature/#5-usecase
         </mxCell>
         <mxCell id="eHUSrNBATWkMHYGOMOzu-4" value="도메인 모델 설계" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry y="30" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eHUSrNBATWkMHYGOMOzu-5" value="게시판 보기&amp;nbsp;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BarcSize%3D40%3BfontColor%3D%23000000%3BfillColor%3D%23ffffc0%3BstrokeColor%3D%23ff0000%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22210%22%20y%3D%22160%22%20width%3D%22146%22%20height%3D%2290%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+<<<<<<< HEAD
           <mxGeometry x="210" y="340" width="146" height="90" as="geometry" />
+=======
+          <mxGeometry x="200" y="300" width="146" height="90" as="geometry" />
+>>>>>>> origin/feature/#5-usecase
         </mxCell>
         <mxCell id="eHUSrNBATWkMHYGOMOzu-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eHUSrNBATWkMHYGOMOzu-7" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -28,7 +44,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eHUSrNBATWkMHYGOMOzu-7" value="게시글 보기" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+<<<<<<< HEAD
           <mxGeometry x="420" y="570" width="146" height="90" as="geometry" />
+=======
+          <mxGeometry x="200" y="550" width="146" height="90" as="geometry" />
+>>>>>>> origin/feature/#5-usecase
         </mxCell>
         <mxCell id="eHUSrNBATWkMHYGOMOzu-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eHUSrNBATWkMHYGOMOzu-9" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -36,7 +56,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eHUSrNBATWkMHYGOMOzu-9" value="회원 로그인" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+<<<<<<< HEAD
           <mxGeometry x="460" y="70" width="120" height="60" as="geometry" />
+=======
+          <mxGeometry x="430" y="70" width="120" height="60" as="geometry" />
+>>>>>>> origin/feature/#5-usecase
         </mxCell>
         <mxCell id="eHUSrNBATWkMHYGOMOzu-10" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="eHUSrNBATWkMHYGOMOzu-11" target="eHUSrNBATWkMHYGOMOzu-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -48,6 +72,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eHUSrNBATWkMHYGOMOzu-13" value="실패(성공은 게시글로 갈거니까)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+<<<<<<< HEAD
           <mxGeometry x="690" y="230" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eHUSrNBATWkMHYGOMOzu-14" value="게시판 검색" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
@@ -64,6 +89,21 @@
         </mxCell>
         <mxCell id="eHUSrNBATWkMHYGOMOzu-18" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="1" vertex="1">
           <mxGeometry x="390" y="440" width="40" height="8" as="geometry" />
+=======
+          <mxGeometry x="690" y="160" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eHUSrNBATWkMHYGOMOzu-14" value="게시판 검색" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="361" y="360" width="106" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eHUSrNBATWkMHYGOMOzu-15" value="게시판 정렬" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="361" y="430" width="106" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eHUSrNBATWkMHYGOMOzu-16" value="게시글 쓰기, 수정, 삭제" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="370" y="600" width="106" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eHUSrNBATWkMHYGOMOzu-17" value="댓글 보기, 쓰기, 수정, 삭제" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="380" y="690" width="106" height="60" as="geometry" />
+>>>>>>> origin/feature/#5-usecase
         </mxCell>
         <mxCell id="eHUSrNBATWkMHYGOMOzu-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="eHUSrNBATWkMHYGOMOzu-3" target="eHUSrNBATWkMHYGOMOzu-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -71,6 +111,30 @@
         <mxCell id="eHUSrNBATWkMHYGOMOzu-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="eHUSrNBATWkMHYGOMOzu-5" target="eHUSrNBATWkMHYGOMOzu-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+<<<<<<< HEAD
+=======
+        <mxCell id="6DFOVToqVPGShSenN_rZ-1" value="db" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="240" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6DFOVToqVPGShSenN_rZ-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="6DFOVToqVPGShSenN_rZ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="340" as="sourcePoint" />
+            <mxPoint x="390" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6DFOVToqVPGShSenN_rZ-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eHUSrNBATWkMHYGOMOzu-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="350" as="sourcePoint" />
+            <mxPoint x="1050" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6DFOVToqVPGShSenN_rZ-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eHUSrNBATWkMHYGOMOzu-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="350" as="sourcePoint" />
+            <mxPoint x="1050" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+>>>>>>> origin/feature/#5-usecase
       </root>
     </mxGraphModel>
   </diagram>
